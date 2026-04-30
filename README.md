@@ -49,7 +49,7 @@ Obtain root access on the target machine.
 
 ---
 
-## 🚀 Setup Instructions
+## Setup Instructions
 
 1. Import the OVA file into VirtualBox or VMware  
 2. Configure networking (Host-only or NAT)  
@@ -58,7 +58,7 @@ Obtain root access on the target machine.
 
 ---
 
-## 🧪 Difficulty
+## Difficulty
 
 Medium
 
@@ -71,6 +71,6 @@ Do not deploy it in production environments or expose it to public networks.
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
-Manisha
+Manisha M
